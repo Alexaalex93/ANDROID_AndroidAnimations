@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mr_bean.jpg",
+        "source": "/Users/cice/Downloads/AndroidAnimations/app/src/main/res/drawable-hdpi/mr_bean.jpg"
+    },
+    {
+        "merged": "/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/man_of_steel.jpg",
+        "source": "/Users/cice/Downloads/AndroidAnimations/app/src/main/res/drawable-hdpi/man_of_steel.jpg"
+    }
+]

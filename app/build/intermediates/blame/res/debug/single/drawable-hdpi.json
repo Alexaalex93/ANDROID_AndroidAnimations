@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/cice/Downloads/AndroidAnimations/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/res/merged/debug/drawable-hdpi/rotate_clock.png",
+        "source": "/Users/cice/Downloads/AndroidAnimations/app/src/main/res/drawable-hdpi/rotate_clock.png"
+    },
+    {
+        "merged": "/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter.png",
+        "source": "/Users/cice/Downloads/AndroidAnimations/app/src/main/res/drawable-hdpi/twitter.png"
+    }
+]

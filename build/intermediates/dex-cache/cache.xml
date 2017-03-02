@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cice/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_45c8685555fc2157375d8520db9f03ff48653e78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49d388e9d293309fc99ea57ff65452a709a25bb7">
+        <dex dex="/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfd051c6722a074953a631d70453fc1e87861285/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f9471266fbe280f1f54fa93a976d51b8e03f8a4">
+        <dex dex="/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_846d55e90d82df7f75e6b5863bfe070674c43187/classes.dex" />
+    </item>
+
+</items>

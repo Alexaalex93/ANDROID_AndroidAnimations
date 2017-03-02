@@ -1,0 +1,7 @@
+#Thu Mar 02 11:10:46 CET 2017
+base.0=/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfd051c6722a074953a631d70453fc1e87861285
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_846d55e90d82df7f75e6b5863bfe070674c43187/classes.dex
+base.1=/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_846d55e90d82df7f75e6b5863bfe070674c43187
+file.0=/Users/cice/Downloads/AndroidAnimations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfd051c6722a074953a631d70453fc1e87861285/classes.dex
